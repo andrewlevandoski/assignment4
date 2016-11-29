@@ -96,3 +96,19 @@ input:-moz-placeholder {
   line-height: 45px;
   text-align: center;
 }
+
+.matches {
+  border-color: #000000;
+  border-style: solid;
+  padding: 5px;
+  margin: 0 30px 0 30px;
+}
+
+.matches a {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 26px;
+  color: #333;
+  display: block;
+  text-decoration: none;
+  margin-bottom: 5px;
+}
